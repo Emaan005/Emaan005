@@ -3,7 +3,7 @@
 
 Computer Science undergraduate building across the full stack — web apps, mobile, machine learning, and computer vision. I like taking a problem from idea to working implementation, and I pick up new stacks quickly.
 
-📍 Islamabad, Pakistan 🇵🇰 · 📬 aeinvkt@email.com · 
+📍 Islamabad, Pakistan 🇵🇰 · 📬 aeinvkt@email.com · 💼 www.linkedin.com/in/eman-zahra-265324291
 
 ---
 
