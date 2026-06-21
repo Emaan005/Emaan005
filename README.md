@@ -34,7 +34,7 @@ Computer Science undergraduate building across the full stack — web apps, mobi
 
 ## 📌 Featured Projects
 
-- 🧁 **[CafeFlow](repo-link)** — Bakery management system built on two stacks (Laravel/MySQL + Flask/MongoDB) to compare database paradigms
+- 🧁 **[CafeFlow](https://github.com/Emaan005/BloodConnect)** — Bakery management system built on two stacks (Laravel/MySQL + Flask/MongoDB) to compare database paradigms
 - ✋ **[Gesture Recognition](repo-link)** — Real-time finger detection in C++/OpenCV with Google Test suite
 - 🩸 **[BloodConnect](repo-link)** — Flutter app matching blood donors with patients by blood group & location
 - 🌍 **[AI Translator](repo-link)** — Voice & text desktop translator supporting 100+ languages with Urdu/Arabic support
